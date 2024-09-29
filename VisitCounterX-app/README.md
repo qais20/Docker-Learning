@@ -2,7 +2,7 @@
 
 Welcome to **VisitCounterX**, my very first Flask web application! 🎉 This project represents my journey from an aspiring developer to successfully deploying a web app that tracks visits in real-time. I’ve put my heart and soul into this project, learning a ton along the way, and I’m excited to share it with you!
 
-![VisitCounterX Screenshot](https://link-to-image.com/screenshot1)
+![VisitCounterX Screenshot]([https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/about%20-%20visitcounterx.jpg](https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/homepage%20-%20visitcounterx.jpg))
 
 ## Table of Contents
 - [Features](#features)
@@ -108,7 +108,7 @@ The home page is designed to welcome users to VisitCounterX. It features two but
 - **About**: Takes users to the About page.
 - **Check Visit Counter**: Redirects users to the Visit Counter page where they can view the visit count.
 
-![Home Page](https://link-to-image.com/home-page) <!-- Add screenshot of Home Page -->
+![Home Page](https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/homepage%20-%20visitcounterx.jpg)
 
 ### 2. Visit Counter Page
 
@@ -119,7 +119,7 @@ The Visit Counter page is the core feature of the app. It displays:
 
 You can customise the progress bar and background to fit the look and feel of your brand.
 
-![Visit Counter Page](https://link-to-image.com/visit-counter) <!-- Add screenshot of Visit Counter Page -->
+![Visit Counter Page](https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/counter%20-%20visitcounterx.jpg) 
 
 ### 3. About Page
 
@@ -128,7 +128,7 @@ The About page provides a detailed overview of the project, including:
 - The technologies used (Flask, Redis, Docker, Nginx).
 - Future plans for the project.
 
-![About Page](https://link-to-image.com/about-page) <!-- Add screenshot of About Page -->
+![About Page](https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/about%20-%20visitcounterx.jpg)
 
 ## Future Enhancements
 
@@ -158,5 +158,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ---
 
 Thank you for taking the time to explore my project, **VisitCounterX**. I hope it inspires others to dive into web development and share their own creations with the world! 😊
-
-![Final Screenshot](https://link-to-image.com/final-screenshot) <!-- Add any final image or screenshot -->
