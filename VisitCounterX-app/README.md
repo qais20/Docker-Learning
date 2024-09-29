@@ -2,7 +2,7 @@
 
 Welcome to **VisitCounterX**, my very first Flask web application! 🎉 This project represents my journey from an aspiring developer to successfully deploying a web app that tracks visits in real-time. I’ve put my heart and soul into this project, learning a ton along the way, and I’m excited to share it with you!
 
-![VisitCounterX Screenshot]([https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/about%20-%20visitcounterx.jpg](https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/homepage%20-%20visitcounterx.jpg))
+![VisitCounterX Screenshot](https://github.com/qais20/Docker-Learning/blob/b6b8cc21bee20448bebd7d5f2d969aed6aa92f7e/VisitCounterX-app/Screenshots/homepage%20-%20visitcounterx.jpg)
 
 ## Table of Contents
 - [Features](#features)
