@@ -157,4 +157,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ---
 
-Thank you for taking the time to explore my project, **VisitCounterX**. I hope it inspires others to dive into web development and share their own creations with the world! 😊
+Thank you for taking the time to explore my project, **VisitCounterX**. I hope it inspires others to dive into web development and share their own creations with the world! 
+
