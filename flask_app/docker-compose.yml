@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"  # Map port 5000 on the host to port 5000 in the container
+    environment:
+      - REDIS_HOST=myredis
+      - REDIS_PORT=6379
+    depends_on:
+      - myredis
+
+  myredis:
+    image: redis:alpine  # Use the official Redis image
+    volumes:
+      - redis_data:/data  # Persist Redis data using a volume
+
+volumes:
+  redis_data:  # Define a named volume for Redis data persistence
