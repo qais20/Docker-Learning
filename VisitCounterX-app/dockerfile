@@ -1,0 +1,17 @@
+# Use the official Python image from the Docker Hub
+FROM python:3.8-slim
+
+# Set the working directory
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir flask redis
+
+# Make the port available to the world outside this container
+EXPOSE 7777
+
+# Run the application
+CMD ["python", "app.py"]
