@@ -20,6 +20,9 @@ Welcome to **VisitCounterX**, my very first Flask web application! 🎉 This pro
 - [Contributing](#contributing)
 - [License](#license)
 
+## What Does VisitCounterX Do?
+VisitCounterX is a simple, Flask-based web application that tracks and displays the number of visits to the site in real-time. It stores visit counts in a Redis database and showcases this information visually through a dynamic progress bar. Each time a user visits the page, they are greeted with a random inspirational quote inspired by Prophet Muhammad (PBUH). The app is fully containerised using Docker, ensuring easy deployment and scalability.
+
 ## Features
 - **Real-Time Visit Counter**: Keeps track of the number of visits and stores the count in Redis.
 - **Dynamic Progress Bar**: A visually appealing progress bar that fills based on the visit count.
